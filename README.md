@@ -1,61 +1,3 @@
-)
-
-Tutorial 📖
-Twitter 🐦
-LinkedIn 👨‍💻
-Select Page
-Home
-Generate README
-Chose Github Stats Card Type
-type-1
-Select theme for Joke Card
-default
-Github Profile README Me Template
-
-GitHub stars
-Fill in the text boxes and click on Generate README
-Name
-Twitter
-Github UserID
-Portfolio
-Linkedin userID
-Medium URL
-I am currently working on
-my Github profile
-I am currently learning
-I am looking to collaborate on
-Small open source Rust crates
-talk to me about
-Python, Rust
-Select Skills
-python
-javascript
-c
-cpp
-sqlite
-rust
-typescript
-aws
-docker
-kubernetes
-nodejs
-postgresql
-Wakatime User ID
-
-    What is Wakatime and how do I get my user ID?
-
-
-    How to display my latest blog posts?
-
-
-Enter Banner Image to be added at the top of the README
-Enter Image witdh (include units % or px)
-Enter Image height (include units % or px)
-
-    Getting Image URL
-
-Download README
-
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
@@ -104,35 +46,9 @@ Download README
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/ivandardi?template=classic&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/ivandardi?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
-
-cover
-Hello Fellow < Developers/ >!
-
-visitors
-
-Hi! My name is Ivan. Thank You for taking the time to view my GitHub Profile :smile:
-About Me
-Github
-
-    🔭 I’m currently working on my Github profile
-
-    🌱 I’m currently learning
-
-    👯 I’m looking to collaborate on Small open source Rust crates
-
-    💬 Talk to me about Python, Rust 
-
-Skills
-Connect with me
-My GitHub Stats
-
-Metrics
-
-README made with help of githubProfileReadmeGenerator
-Made with Streamlit
